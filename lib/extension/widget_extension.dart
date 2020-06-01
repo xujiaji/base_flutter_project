@@ -1,6 +1,6 @@
 
-import 'package:baseflutterproject/common.dart';
-import 'package:baseflutterproject/global.dart';
+import '../common.dart';
+import '../global.dart';
 import 'package:flutter/material.dart';
 
 extension WidgetExtension on Widget {

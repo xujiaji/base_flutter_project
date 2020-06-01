@@ -1,7 +1,6 @@
 
 import 'dart:io';
-import 'package:baseflutterproject/common.dart';
-import 'package:baseflutterproject/global.dart';
+import '../../common.dart';
 import 'package:dio/dio.dart';
 import 'api.dart';
 

@@ -1,5 +1,5 @@
 
-import 'package:baseflutterproject/ui/home/home_main_page.dart';
+import 'ui/home/home_main_page.dart';
 import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

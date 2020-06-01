@@ -1,5 +1,5 @@
-import 'package:baseflutterproject/common.dart';
-import 'package:baseflutterproject/r.dart';
+import '../../common.dart';
+import '../../r.dart';
 import 'package:flutter/material.dart';
 
 class HomeMainPage extends StatefulWidget {
